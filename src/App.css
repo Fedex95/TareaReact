@@ -12,7 +12,36 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.rtx-color{
+  background-color: red;
+  border: red; 
+}
 
+.fondo{
+  background-image: url("https://www.xtrafondos.com/wallpapers/abstract-polygons-3089.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow:  hidden; 
+}
+.foot{
+  background-color: rgb(90, 88, 88);
+  border-color: black;
+}
+.nrc{
+  background-color: rgb(132, 134, 231);
+  border-color:black
+}
+.carta{
+  background-color: rgb(40, 127, 226);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-color:black;
+  }
+  .colorletra{
+    color:white;
+  }
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -21,7 +50,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 }
 
 .App-link {
